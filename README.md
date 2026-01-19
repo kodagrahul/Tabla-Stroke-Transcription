@@ -82,7 +82,7 @@ traka, tu, tuna
 
 ## Download "Tabla_Improvised_Dataset_TID"
 
-[Download Tabla Improvised Dataset (TID)]([https://iitk-my.sharepoint.com/:u:/g/personal/rkodag_iitk_ac_in/IQBtPnqqQ3NHTaiacwkkxGLdAaWM_X4xEvZ4RP0aAQLCrms?e=uzVt8V])
+[Download Tabla Improvised Dataset (TID)](https://iitk-my.sharepoint.com/:u:/g/personal/rkodag_iitk_ac_in/IQBtPnqqQ3NHTaiacwkkxGLdAaWM_X4xEvZ4RP0aAQLCrms?e=uzVt8V)
 
 ---
 
